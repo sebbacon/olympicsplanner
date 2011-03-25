@@ -1,0 +1,651 @@
+July 27,Archery,False,"[('men', 'Individual ')]",Ticket Limit: 0,Lord's Cricket Ground,[],09:00,11:00
+July 27,Archery,False,"[('women', 'Individual ')]",Ticket Limit: 0,Lord's Cricket Ground,[],13:00,15:00
+July 28,Archery,False,"[('men', 'Team ')]",Ticket Limit: 20,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,12:20
+July 28,Archery,True,"[('men', 'Team ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",15:00,19:00
+July 29,Archery,False,"[('women', 'Team ')]",Ticket Limit: 20,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,12:20
+July 29,Archery,True,"[('women', 'Team ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",15:00,19:00
+July 30,Archery,False,"[('men', 'Individual '), ('women', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",09:00,13:00
+July 30,Archery,False,"[('men', 'Individual '), ('women', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",15:00,17:40
+July 31,Archery,False,"[('men', 'Individual '), ('women', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",09:00,13:00
+July 31,Archery,False,"[('men', 'Individual '), ('women', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",15:00,17:40
+August  1,Archery,False,"[('men', 'Individual '), ('women', 'Individual ')]",Ticket Limit: 20,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,13:00
+August  1,Archery,False,"[('men', 'Individual '), ('women', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",15:00,19:00
+August  2,Archery,False,"[('women', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",09:00,10:45
+August  2,Archery,True,"[('women', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",14:00,16:20
+August  3,Archery,False,"[('men', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",09:00,10:45
+August  3,Archery,True,"[('men', 'Individual ')]",Ticket Limit: 6,Lord's Cricket Ground,"[u'\xa395.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:00,16:20
+August  3,Athletics,False,"[('men', '400m hurdles '), ('men', '3,000 metre steeplechase '), ('men', 'Hammer '), ('men', 'Shot put '), ('women', '100 metres '), ('women', '400 metres '), ('women', 'Triple jump '), ('women', 'Heptathlon ')]",Ticket Limit: 20,Olympic Park - Olympic Stadium,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,13:45
+August  3,Athletics,True,"[('men', '1,500 metres '), ('men', 'Long jump '), ('men', 'Shot put '), ('women', '100 metres '), ('women', '10,000 metres '), ('women', 'Discus '), ('women', 'Heptathlon ')]",Ticket Limit: 6,Olympic Park - Olympic Stadium,"[u'\xa3450.00', u'\xa3295.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",19:00,21:55
+August  4,Athletics,False,"[('men', '100 metres '), ('men', '400 metres '), ('women', '3,000 metre steeplechase '), ('women', 'Pole vault '), ('women', 'Heptathlon ')]",Ticket Limit: 20,Olympic Park - Olympic Stadium,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,13:45
+August  4,Athletics,True,"[('men', '20 km race walk ')]",Ticket Limit: 10,The Mall,"[u'\xa330.00', None, None, u'\xa320.00', None, None]",17:00,18:30
+August  4,Athletics,True,"[('men', '400m hurdles '), ('men', '10,000 metres '), ('men', 'Long jump '), ('men', 'Shot put '), ('men', '20 km race walk '), ('women', '100 metres '), ('women', '400 metres '), ('women', '10,000 metres '), ('women', 'Discus '), ('women', 'Heptathlon ')]",Ticket Limit: 6,Olympic Park - Olympic Stadium,"[u'\xa3450.00', u'\xa3295.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",18:50,22:05
+August  5,Athletics,True,"[('women', 'Marathon ')]",Ticket Limit: 10,The Mall,"[u'\xa350.00', None, u'\xa330.00', None, None, u'\xa320.00', None, None]",11:00,14:00
+August  5,Athletics,True,"[('men', '100 metres '), ('men', '400 metres '), ('men', '1,500 metres '), ('men', '3,000 metre steeplechase '), ('men', '10,000 metres '), ('men', 'High jump '), ('men', 'Long jump '), ('men', 'Hammer '), ('women', '100 metres '), ('women', '400 metres '), ('women', '400 metre hurdles '), ('women', 'Triple jump '), ('women', 'Marathon ')]",Ticket Limit: 4,Olympic Park - Olympic Stadium,"[u'\xa3725.00', u'\xa3420.00', u'\xa3295.00', u'\xa3125.00', u'\xa350.00']",18:50,21:55
+August  6,Athletics,False,"[('men', '800 metres '), ('men', 'Discus '), ('women', '100 metre hurdles '), ('women', '1,500 metres '), ('women', 'Shot put ')]",Ticket Limit: 20,Olympic Park - Olympic Stadium,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,12:20
+August  6,Athletics,True,"[('men', '100 metres '), ('men', '400 metres '), ('men', '400 metre hurdles '), ('men', '3,000 metre steeplechase '), ('men', 'Hammer '), ('women', '200 metres '), ('women', '400 metre hurdles '), ('women', '3,000 metre steeplechase '), ('women', 'Pole vault '), ('women', 'Shot put ')]",Ticket Limit: 6,Olympic Park - Olympic Stadium,"[u'\xa3450.00', u'\xa3295.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",18:50,21:40
+August  7,Athletics,False,"[('men', '110 metre hurdles '), ('men', '200 metres '), ('men', 'Triple jump '), ('women', '5,000 metres '), ('women', 'Javelin ')]",Ticket Limit: 20,Olympic Park - Olympic Stadium,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,12:35
+August  7,Athletics,True,"[('men', '400 metres '), ('men', '800 metres '), ('men', '1,500 metres '), ('men', 'High jump '), ('men', 'Discus '), ('women', '100 metre hurdles '), ('women', '200 metres '), ('women', '3,000 metre steeplechase '), ('women', 'Long jump '), ('women', 'Pole vault ')]",Ticket Limit: 6,Olympic Park - Olympic Stadium,"[u'\xa3450.00', u'\xa3295.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",18:50,21:20
+August  8,Athletics,False,"[('men', '5,000 metres '), ('men', 'Pole vault '), ('men', 'Decathlon '), ('women', '800 metres '), ('women', 'Hammer ')]",Ticket Limit: 20,Olympic Park - Olympic Stadium,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,13:40
+August  8,Athletics,True,"[('men', '110 metre hurdles '), ('men', '200 metres '), ('men', '1,500 metres '), ('men', 'High jump '), ('men', 'Discus '), ('men', 'Javelin '), ('men', 'Decathlon '), ('women', '100 metre hurdles '), ('women', '200 metres '), ('women', '400 metre hurdles '), ('women', '1,500 metres '), ('women', 'Long jump ')]",Ticket Limit: 6,Olympic Park - Olympic Stadium,"[u'\xa345.00', u'\xa3295.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",18:00,21:55
+August  9,Athletics,False,"[('men', '4 x 400m relay '), ('men', 'Decathlon '), ('women', 'High jump ')]",Ticket Limit: 20,Olympic Park - Olympic Stadium,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,16:00
+August  9,Athletics,True,"[('men', '110 metre hurdles '), ('men', '200 metres '), ('men', '800 metres '), ('men', 'Triple jump '), ('men', 'Decathlon '), ('women', '200 metres '), ('women', '800 metres '), ('women', '4 x 100 metre relay '), ('women', 'Long jump '), ('women', 'Javelin ')]",Ticket Limit: 6,Olympic Park - Olympic Stadium,"[u'\xa3450.00', u'\xa3295.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",18:30,22:10
+August 10,Athletics,True,"[('men', '4 x 100 metre relay '), ('men', '4 x 400m relay '), ('men', 'Pole vault '), ('men', 'Decathlon '), ('women', '1,500 metres '), ('women', '5,000 metres '), ('women', '4 x 100 metre relay '), ('women', '4 x 400m relay '), ('women', 'Hammer '), ('women', 'Javelin ')]",Ticket Limit: 4,Olympic Park - Olympic Stadium,"[u'\xa3725.00', u'\xa3420.00', u'\xa3295.00', u'\xa3125.00', u'\xa350.00']",19:00,21:40
+August 11,Athletics,True,"[('men', '50 km race walk ')]",Ticket Limit: 10,The Mall,"[u'\xa330.00', None, None, u'\xa320.00', None, None]",09:00,13:20
+August 11,Athletics,True,"[('women', '20 km race walk ')]",Ticket Limit: 10,The Mall,"[u'\xa330.00', None, None, u'\xa320.00', None, None]",17:00,18:45
+August 11,Athletics,True,"[('men', '5,000 metres '), ('men', '4 x 100 metre relay '), ('men', '4 x 400m relay '), ('men', 'Pole vault '), ('men', 'Javelin '), ('men', '50 km race walk '), ('women', '800 metres '), ('women', '4 x 400m relay '), ('women', 'High jump '), ('women', 'Hammer '), ('women', '20 km race walk ')]",Ticket Limit: 4,Olympic Park - Olympic Stadium,"[u'\xa3725.00', u'\xa3420.00', u'\xa3295.00', u'\xa3125.00', u'\xa350.00']",18:45,21:30
+August 12,Athletics,True,"[('men', 'Marathon ')]",Ticket Limit: 10,The Mall,"[u'\xa350.00', None, u'\xa330.00', None, None, u'\xa320.00', None, None]",11:00,13:40
+July 28,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,11:00
+July 28,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",12:30,17:00
+July 28,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",18:30,23:00
+July 29,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,11:00
+July 29,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",12:30,17:00
+July 29,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",18:30,23:00
+July 30,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,11:00
+July 30,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",12:30,17:00
+July 30,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",18:30,23:00
+July 31,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,11:00
+July 31,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",12:30,17:00
+July 31,Badminton,False,"[('men', 'Singles '), ('men', 'Doubles '), ('women', 'Singles '), ('women', 'Doubles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",18:30,23:00
+August  1,Badminton,False,"[('men', 'Singles '), ('women', 'Singles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",09:00,11:00
+August  1,Badminton,False,"[('men', 'Singles '), ('women', 'Singles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",12:30,15:30
+August  1,Badminton,False,"[('men', 'Singles '), ('women', 'Singles '), ('women', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",17:00,21:00
+August  2,Badminton,False,"[('men', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",09:00,11:00
+August  2,Badminton,False,"[('women', 'Singles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",12:30,15:30
+August  2,Badminton,False,"[('men', 'Singles '), ('women', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",17:00,20:00
+August  3,Badminton,True,"[('men', 'Singles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",09:00,12:00
+August  3,Badminton,True,"[('men', 'Singles '), ('mixed', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",13:30,17:00
+August  4,Badminton,True,"[('men', 'Doubles '), ('women', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",09:00,12:00
+August  4,Badminton,True,"[('women', 'Singles '), ('women', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",13:30,17:00
+August  5,Badminton,True,"[('men', 'Singles '), ('men', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",09:00,11:00
+August  5,Badminton,True,"[('men', 'Singles '), ('men', 'Doubles ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",13:00,16:00
+July 28,Basketball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",09:00,13:00
+July 28,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",14:30,18:30
+July 28,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",20:00,00:00
+July 29,Basketball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,13:00
+July 29,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",14:30,18:30
+July 29,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa3115.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",20:00,00:00
+July 30,Basketball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",09:00,13:00
+July 30,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",14:30,18:30
+July 30,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",20:00,00:00
+July 31,Basketball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,13:00
+July 31,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",14:30,18:30
+July 31,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa3115.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",20:00,00:00
+August  1,Basketball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",09:00,13:00
+August  1,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",14:30,18:30
+August  1,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:00,00:00
+August  2,Basketball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,13:00
+August  2,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",14:30,18:30
+August  2,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa3115.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",20:00,00:00
+August  3,Basketball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",09:00,13:00
+August  3,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",14:30,18:30
+August  3,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",20:00,00:00
+August  4,Basketball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,13:00
+August  4,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",14:30,18:30
+August  4,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa3115.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",20:00,00:00
+August  5,Basketball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', None, u'\xa320.00', None]",09:00,13:00
+August  5,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",14:30,18:30
+August  5,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",20:00,00:00
+August  6,Basketball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,13:00
+August  6,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",14:30,18:30
+August  6,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa3115.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",20:00,00:00
+August  7,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",14:00,18:00
+August  7,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa320.00']",20:00,00:00
+August  8,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3125.00', u'\xa385.00', u'\xa355.00', u'\xa345.00', u'\xa335.00']",14:00,18:00
+August  9,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3125.00', u'\xa385.00', u'\xa355.00', u'\xa345.00', u'\xa335.00']",17:00,19:00
+August  9,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3125.00', u'\xa385.00', u'\xa355.00', u'\xa345.00', u'\xa335.00']",17:00,19:00
+August  9,Basketball,False,"[('women', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3125.00', u'\xa385.00', u'\xa355.00', u'\xa345.00', u'\xa335.00']",21:00,23:00
+August 10,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3150.00', u'\xa3110.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",17:00,19:00
+August 10,Basketball,False,"[('men', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3150.00', u'\xa3110.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",21:00,23:00
+August 11,Basketball,True,"[('women', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3150.00', u'\xa3110.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",17:00,19:00
+August 11,Basketball,True,"[('women', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3325.00', u'\xa3225.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",21:00,23:30
+August 12,Basketball,True,"[('men', '- ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3325.00', u'\xa3225.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",11:00,13:00
+August 12,Basketball,True,"[('men', '- ')]",Ticket Limit: 4,North Greenwich Arena,"[u'\xa3425.00', u'\xa3295.00', u'\xa3185.00', u'\xa3125.00', u'\xa395.00']",15:00,17:30
+July 28,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 20,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,12:50
+July 28,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",14:30,18:20
+July 28,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",20:00,23:50
+July 29,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 20,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,12:50
+July 29,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",14:30,18:20
+July 29,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",20:00,23:50
+July 30,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 20,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,12:50
+July 30,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",14:30,18:20
+July 30,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",20:00,23:50
+July 31,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 20,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,12:50
+July 31,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",14:30,18:20
+July 31,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",20:00,23:50
+August  1,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 20,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,12:50
+August  1,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",14:30,18:20
+August  1,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",20:00,23:50
+August  2,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 20,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",09:00,12:50
+August  2,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",14:30,18:20
+August  2,Beach Volleyball,False,"[('men-and-women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', u'\xa320.00']",20:00,23:50
+August  3,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",09:00,10:50
+August  3,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",13:00,14:50
+August  3,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",17:00,18:50
+August  3,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",21:00,22:50
+August  4,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",09:00,10:50
+August  4,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",13:00,14:50
+August  4,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",17:00,18:50
+August  4,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",21:00,22:50
+August  5,Beach Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3125.00', u'\xa395.00', u'\xa375.00', u'\xa365.00', u'\xa345.00']",18:00,19:50
+August  5,Beach Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3125.00', u'\xa395.00', u'\xa375.00', u'\xa365.00', u'\xa345.00']",22:00,23:50
+August  6,Beach Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3125.00', u'\xa395.00', u'\xa375.00', u'\xa365.00', u'\xa345.00']",18:00,19:50
+August  6,Beach Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3125.00', u'\xa395.00', u'\xa375.00', u'\xa365.00', u'\xa345.00']",22:00,23:50
+August  7,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3225.00', u'\xa3150.00', u'\xa3110.00', u'\xa395.00', u'\xa365.00']",17:00,18:50
+August  7,Beach Volleyball,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 6,Horse Guards Parade,"[u'\xa3225.00', u'\xa3150.00', u'\xa3110.00', u'\xa395.00', u'\xa365.00']",17:00,18:50
+August  8,Beach Volleyball,True,"[('women', '- ')]",Ticket Limit: 4,Horse Guards Parade,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa3125.00', u'\xa395.00']",19:00,22:30
+August  9,Beach Volleyball,True,"[('men', '- ')]",Ticket Limit: 4,Horse Guards Parade,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa3125.00', u'\xa395.00']",19:00,22:30
+July 28,Boxing,False,"[('men', 'Bantom weight 56kg '), ('men', 'Middle weight 75kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,16:30
+July 28,Boxing,False,"[('men', 'Bantom weight 56kg '), ('men', 'Middle weight 75kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:30,23:30
+July 29,Boxing,False,"[('men', 'Light weight 60kg '), ('men', 'Welter weight 69kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,16:30
+July 29,Boxing,False,"[('men', 'Light weight 60kg '), ('men', 'Welter weight 69kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:30,23:30
+July 30,Boxing,False,"[('men', 'Fly weight 52kg '), ('men', 'Light heavy weight 81kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,16:30
+July 30,Boxing,False,"[('men', 'Fly weight 52kg '), ('men', 'Light heavy weight 81kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:30,23:00
+July 31,Boxing,False,"[('men', 'Light fly weight 49kg '), ('men', 'Light welter weight 64kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,16:15
+July 31,Boxing,False,"[('men', 'Light fly weight 49kg '), ('men', 'Light welter weight 64kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:30,23:15
+August  1,Boxing,False,"[('men', 'Bantom weight 56kg '), ('men', 'Heavy weight 91kg '), ('men', 'Super heavy weight +91kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,16:30
+August  1,Boxing,False,"[('men', 'Bantom weight 56kg '), ('men', 'Heavy weight 91kg '), ('men', 'Super heavy weight +91kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:30,23:30
+August  2,Boxing,False,"[('men', 'Light weight 60kg '), ('men', 'Middle weight 75kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,15:30
+August  2,Boxing,False,"[('men', 'Light weight 60kg '), ('men', 'Middle weight 75kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:30,22:30
+August  3,Boxing,False,"[('men', 'Fly weight 52kg '), ('men', 'Welter weight 69kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,15:30
+August  3,Boxing,False,"[('men', 'Fly weight 52kg '), ('men', 'Welter weight 69kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:30,22:30
+August  4,Boxing,False,"[('men', 'Light fly weight 49kg '), ('men', 'Light welter weight 64kg '), ('men', 'Light heavy weight 81kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,16:30
+August  4,Boxing,False,"[('men', 'Light fly weight 49kg '), ('men', 'Light welter weight 64kg '), ('men', 'Light heavy weight 81kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', u'\xa320.00']",20:30,23:30
+August  5,Boxing,False,"[('women', 'Fly weight 51kg '), ('women', 'Light weight 60kg '), ('women', 'Middle weight 75kg ')]",Ticket Limit: 20,ExCel,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,16:30
+August  5,Boxing,False,"[('men', 'Bantom weight 56kg '), ('men', 'Heavy weight 91kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",20:30,22:30
+August  6,Boxing,False,"[('women', 'Fly weight 51kg '), ('women', 'Light weight 60kg '), ('women', 'Middle weight 75kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",13:30,16:30
+August  6,Boxing,False,"[('men', 'Light weight 60kg '), ('men', 'Middle weight 75kg '), ('men', 'Super heavy weight +91kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",20:30,23:30
+August  7,Boxing,False,"[('men', 'Fly weight 52kg '), ('men', 'Welter weight 69kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",20:30,23:30
+August  8,Boxing,False,"[('women', 'Fly weight 51kg '), ('women', 'Light weight 60kg '), ('women', 'Middle weight 75kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",13:00,15:00
+August  8,Boxing,False,"[('men', 'Light fly weight 49kg '), ('men', 'Light welter weight 64kg '), ('men', 'Light heavy weight 81kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3110.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",20:30,23:30
+August  9,Boxing,True,"[('women', 'Fly weight 51kg '), ('women', 'Light weight 60kg '), ('women', 'Middle weight 75kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3275.00', u'\xa3185.00', u'\xa3125.00', u'\xa395.00', u'\xa350.00']",16:30,18:00
+August 10,Boxing,False,"[('men', 'Light fly weight 49kg '), ('men', 'Bantom weight 56kg '), ('men', 'Light welter weight 64kg '), ('men', 'Middle weight 75kg '), ('men', 'Super heavy weight +91kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3150.00', u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00']",13:30,16:00
+August 10,Boxing,False,"[('men', 'Fly weight 52kg '), ('men', 'Light weight 60kg '), ('men', 'Welter weight 69kg '), ('men', 'Light heavy weight 81kg '), ('men', 'Super heavy weight +91kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3150.00', u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00']",20:30,23:00
+August 11,Boxing,True,"[('men', 'Light fly weight 49kg '), ('men', 'Bantom weight 56kg '), ('men', 'Light welter weight 64kg '), ('men', 'Middle weight 75kg '), ('men', 'Heavy weight 91kg ')]",Ticket Limit: 4,ExCel,"[u'\xa3395.00', u'\xa3295.00', u'\xa3185.00', u'\xa3125.00', u'\xa395.00']",20:30,23:00
+August 12,Boxing,True,"[('men', 'Fly weight 52kg '), ('men', 'Light weight 60kg '), ('men', 'Welter weight 69kg '), ('men', 'Light heavy weight 81kg '), ('men', 'Super heavy weight +91kg ')]",Ticket Limit: 4,ExCel,"[u'\xa3395.00', u'\xa3295.00', u'\xa3185.00', u'\xa3125.00', u'\xa395.00']",13:30,16:00
+July 29,Canoe - Slalom,False,"[('men', 'Canoe single (c1) '), ('men', 'Kayak (k1) ')]",Ticket Limit: 20,"Lee Valley White Water Centre, Hertfordshire","[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,17:40
+July 30,Canoe - Slalom,False,"[('men', 'Canoe double (c2) '), ('women', 'Kayak (k1) ')]",Ticket Limit: 20,"Lee Valley White Water Centre, Hertfordshire","[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",13:30,17:30
+July 31,Canoe - Slalom,True,"[('men', 'Canoe single (c1) ')]",Ticket Limit: 6,"Lee Valley White Water Centre, Hertfordshire","[u'\xa3150.00', u'\xa395.00', u'\xa355.00', u'\xa335.00']",13:30,15:50
+August  1,Canoe - Slalom,True,"[('men', 'Kayak (k1) ')]",Ticket Limit: 6,"Lee Valley White Water Centre, Hertfordshire","[u'\xa3150.00', u'\xa395.00', u'\xa355.00', u'\xa335.00']",13:30,16:05
+August  2,Canoe - Slalom,True,"[('men', 'Canoe double (c2) '), ('women', 'Kayak (k1) ')]",Ticket Limit: 6,"Lee Valley White Water Centre, Hertfordshire","[u'\xa3150.00', u'\xa395.00', u'\xa355.00', u'\xa335.00']",13:30,17:00
+August  6,Canoe - Sprint,False,"[('men', 'Canoe single (c1) 1000 metres '), ('men', 'Kayak single (k1) 1000 metres '), ('men', 'Kayak double (k2) 1000 metres '), ('women', 'Kayak four (k4) 500 metres ')]",Ticket Limit: 20,"Eton Dorney, Buckinghamshire","[u'\xa360.00', u'\xa340.00', None, None, u'\xa320.00', None, None]",09:30,11:50
+August  7,Canoe - Sprint,False,"[('men', 'Canoe double (c2) 1000 metres '), ('men', 'Kayak four (k4) 1000 metres '), ('women', 'Kayak single (k1) 500 metres '), ('women', 'Kayak double (k2) 500 metres ')]",Ticket Limit: 20,"Eton Dorney, Buckinghamshire","[u'\xa360.00', u'\xa340.00', None, None, u'\xa320.00', None, None]",09:30,11:30
+August  8,Canoe - Sprint,True,"[('men', 'Canoe single (c1) 1000 metres '), ('men', 'Kayak single (k1) 1000 metres '), ('men', 'Kayak double (k2) 1000 metres '), ('women', 'Kayak four (k4) 500 metres ')]",Ticket Limit: 6,"Eton Dorney, Buckinghamshire","[u'\xa395.00', u'\xa355.00', None, u'\xa335.00', None]",09:30,11:15
+August  9,Canoe - Sprint,True,"[('men', 'Canoe double (c2) 1000 metres '), ('men', 'Kayak four (k4) 1000 metres '), ('women', 'Kayak single (k1) 500 metres '), ('women', 'Kayak double (k2) 500 metres ')]",Ticket Limit: 6,"Eton Dorney, Buckinghamshire","[u'\xa395.00', u'\xa355.00', None, u'\xa335.00', None]",09:30,11:15
+August 10,Canoe - Sprint,False,"[('men', 'Canoe single (c1) 200 metres '), ('men', 'Kayak single (k1) 200 metres '), ('men', 'Kayak double (k2) 200 metres '), ('women', 'Kayak single (k1) 200 metres ')]",Ticket Limit: 20,"Eton Dorney, Buckinghamshire","[u'\xa360.00', u'\xa340.00', None, None, u'\xa320.00', None, None]",09:30,11:55
+August 11,Canoe - Sprint,True,"[('men', 'Canoe single (c1) 200 metres '), ('men', 'Kayak single (k1) 200 metres '), ('men', 'Kayak double (k2) 200 metres '), ('women', 'Kayak single (k1) 200 metres ')]",Ticket Limit: 6,"Eton Dorney, Buckinghamshire","[u'\xa395.00', u'\xa355.00', None, u'\xa335.00', None]",09:30,11:20
+August  8,Cycling - BMX,False,"[('men', '- '), ('women', '- ')]",Ticket Limit: 10,Olympic Park - BMX Circuit,"[u'\xa395.00', u'\xa365.00', u'\xa355.00', u'\xa340.00', None, u'\xa320.00', None]",15:00,16:30
+August  9,Cycling - BMX,False,"[('men', '- ')]",Ticket Limit: 10,Olympic Park - BMX Circuit,"[u'\xa395.00', u'\xa365.00', u'\xa355.00', u'\xa340.00', None, u'\xa320.00', None]",15:00,17:00
+August 10,Cycling - BMX,True,"[('men', '- '), ('women', '- ')]",Ticket Limit: 4,Olympic Park - BMX Circuit,"[u'\xa3125.00', u'\xa375.00', u'\xa355.00', u'\xa345.00', u'\xa320.00']",15:00,17:20
+August 11,Cycling - Mountain Bike,True,"[('women', 'Cross country mountain bike ')]",Ticket Limit: 10,"Hadleigh Farm, Essex","[u'\xa345.00', None, None, u'\xa320.00', None, None]",12:30,14:30
+August 12,Cycling - Mountain Bike,True,"[('men', 'Cross country mountain bike ')]",Ticket Limit: 10,"Hadleigh Farm, Essex","[u'\xa345.00', None, None, u'\xa320.00', None, None]",13:30,15:30
+July 28,Cycling - Road,True,"[('men', 'Road race ')]",Ticket Limit: 10,The Mall,"[u'\xa360.00', None, u'\xa340.00', None, None, u'\xa320.00', None, None]",10:00,16:15
+July 29,Cycling - Road,True,"[('women', 'Road race ')]",Ticket Limit: 10,The Mall,"[u'\xa360.00', None, u'\xa340.00', None, None, u'\xa320.00', None, None]",12:00,16:15
+August  1,Cycling - Road,True,"[('men', 'Individual time trial ')]",Ticket Limit: 0,Hampton Court Palace,[],10:00,11:30
+August  1,Cycling - Road,True,"[('women', 'Individual time trial ')]",Ticket Limit: 0,Hampton Court Palace,[],13:00,16:15
+August  2,Cycling - Track,True,"[('men', 'Team pursuit '), ('men', 'Team sprint '), ('women', 'Team sprint ')]",Ticket Limit: 4,Olympic Park - Velodrome,"[u'\xa3325.00', u'\xa3225.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",16:00,18:55
+August  3,Cycling - Track,True,"[('men', 'Team pursuit '), ('women', 'Keirin '), ('women', 'Team pursuit ')]",Ticket Limit: 4,Olympic Park - Velodrome,"[u'\xa3325.00', u'\xa3225.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",16:00,18:55
+August  4,Cycling - Track,False,"[('men', 'Omnium (consists of 6 events) '), ('men', 'Sprint ')]",Ticket Limit: 6,Olympic Park - Velodrome,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,11:30
+August  4,Cycling - Track,True,"[('men', 'Omnium (consists of 6 events) '), ('men', 'Sprint '), ('women', 'Team pursuit ')]",Ticket Limit: 4,Olympic Park - Velodrome,"[u'\xa3325.00', u'\xa3225.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",16:00,18:40
+August  5,Cycling - Track,False,"[('men', 'Omnium (consists of 6 events) '), ('women', 'Sprint ')]",Ticket Limit: 6,Olympic Park - Velodrome,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,11:25
+August  5,Cycling - Track,True,"[('men', 'Omnium (consists of 6 events) '), ('men', 'Sprint '), ('women', 'Sprint ')]",Ticket Limit: 4,Olympic Park - Velodrome,"[u'\xa3325.00', u'\xa3225.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",16:00,19:05
+August  6,Cycling - Track,True,"[('men', 'Sprint '), ('women', 'Omnium (consists of 6 events) '), ('women', 'Sprint ')]",Ticket Limit: 4,Olympic Park - Velodrome,"[u'\xa3325.00', u'\xa3225.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",16:00,18:55
+August  7,Cycling - Track,False,"[('men', 'Keirin '), ('women', 'Omnium (consists of 6 events) ')]",Ticket Limit: 6,Olympic Park - Velodrome,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,11:30
+August  7,Cycling - Track,True,"[('men', 'Keirin '), ('women', 'Omnium (consists of 6 events) '), ('women', 'Sprint ')]",Ticket Limit: 4,Olympic Park - Velodrome,"[u'\xa3325.00', u'\xa3225.00', u'\xa3150.00', u'\xa395.00', u'\xa350.00']",16:00,18:30
+July 29,Diving,True,"[('women', 'Synchronised 3m springboard ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3225.00', u'\xa3125.00', u'\xa390.00', u'\xa350.00', u'\xa330.00']",15:00,16:10
+July 30,Diving,True,"[('men', 'Synchronised 10m platform ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",15:00,16:15
+July 31,Diving,True,"[('women', 'Synchronised 10m platform ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",15:00,16:10
+August  1,Diving,True,"[('men', 'Synchronised 3m springboard ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3225.00', u'\xa3125.00', u'\xa390.00', u'\xa350.00', u'\xa330.00']",15:00,16:15
+August  3,Diving,False,"[('women', '3m springboard ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",14:30,17:30
+August  4,Diving,False,"[('women', '3m springboard ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3175.00', u'\xa3120.00', u'\xa380.00', u'\xa350.00', u'\xa330.00']",14:30,16:10
+August  5,Diving,True,"[('women', '3m springboard ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3225.00', u'\xa3125.00', u'\xa390.00', u'\xa350.00', u'\xa330.00']",19:00,20:30
+August  6,Diving,False,"[('men', '3m springboard ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",19:00,22:30
+August  7,Diving,False,"[('men', '3m springboard ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3175.00', u'\xa3120.00', u'\xa380.00', u'\xa350.00', u'\xa330.00']",10:00,11:50
+August  7,Diving,True,"[('men', '3m springboard ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3225.00', u'\xa3125.00', u'\xa390.00', u'\xa350.00', u'\xa330.00']",19:00,21:00
+August  8,Diving,False,"[('women', '10m platform ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3175.00', u'\xa3120.00', u'\xa380.00', u'\xa350.00', u'\xa330.00']",19:00,22:10
+August  9,Diving,False,"[('women', '10m platform ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3225.00', u'\xa3125.00', u'\xa390.00', u'\xa350.00', u'\xa330.00']",10:00,11:30
+August  9,Diving,True,"[('women', '10m platform ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:00,20:30
+August 10,Diving,False,"[('men', '10m platform ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3175.00', u'\xa3120.00', u'\xa380.00', u'\xa350.00', u'\xa330.00']",19:00,22:45
+August 11,Diving,False,"[('men', '10m platform ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3225.00', u'\xa3125.00', u'\xa390.00', u'\xa350.00', u'\xa330.00']",10:00,11:50
+August 11,Diving,True,"[('men', '10m platform ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",20:30,22:10
+August  2,Equestrian - Dressage,False,"[('mixed', 'Team dressage ')]",Ticket Limit: 20,Greenwich Park,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",11:00,15:30
+August  3,Equestrian - Dressage,False,"[('mixed', 'Team dressage ')]",Ticket Limit: 20,Greenwich Park,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",11:00,15:30
+August  7,Equestrian - Dressage,True,"[('mixed', 'Team dressage ')]",Ticket Limit: 6,Greenwich Park,"[u'\xa3150.00', u'\xa395.00', u'\xa355.00', u'\xa335.00']",10:00,16:15
+August  9,Equestrian - Dressage,True,"[('mixed', 'Individual dressage ')]",Ticket Limit: 6,Greenwich Park,"[u'\xa3275.00', u'\xa3175.00', u'\xa395.00', u'\xa365.00']",12:30,16:30
+July 28,Equestrian - Eventing,False,"[('mixed', 'Individual & team eventing ')]",Ticket Limit: 20,Greenwich Park,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,16:15
+July 29,Equestrian - Eventing,False,"[('mixed', 'Individual & team eventing ')]",Ticket Limit: 20,Greenwich Park,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,16:15
+July 30,Equestrian - Eventing,False,"[('mixed', 'Individual & team eventing ')]",Ticket Limit: 20,Greenwich Park,"[u'\xa355.00', None, None]",12:30,17:30
+July 31,Equestrian - Eventing,True,"[('mixed', 'Individual eventing '), ('mixed', 'Team eventing ')]",Ticket Limit: 6,Greenwich Park,"[u'\xa3150.00', u'\xa395.00', u'\xa355.00', u'\xa335.00']",10:30,16:00
+August  4,Equestrian - Jumping,False,"[('mixed', 'Individual jumping '), ('mixed', 'Team jumping ')]",Ticket Limit: 20,Greenwich Park,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:30,14:15
+August  5,Equestrian - Jumping,False,"[('mixed', 'Team jumping ')]",Ticket Limit: 20,Greenwich Park,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",11:00,14:30
+August  6,Equestrian - Jumping,True,"[('mixed', 'Team jumping ')]",Ticket Limit: 6,Greenwich Park,"[u'\xa3150.00', u'\xa395.00', u'\xa355.00', u'\xa335.00']",14:00,17:30
+August  8,Equestrian - Jumping,True,"[('mixed', 'Individual jumping ')]",Ticket Limit: 6,Greenwich Park,"[u'\xa3275.00', u'\xa3175.00', u'\xa395.00', u'\xa365.00']",12:00,16:35
+July 28,Fencing,False,"[('women', 'Individual foil ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:30,15:30
+July 28,Fencing,True,"[('women', 'Individual foil ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:00,20:30
+July 29,Fencing,False,"[('men', 'Individual sabre ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:30,14:00
+July 29,Fencing,True,"[('men', 'Individual sabre ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:00,19:50
+July 30,Fencing,False,"[('women', u'Individual ep\xc3\x83\xc2\xa9e ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:30,15:30
+July 30,Fencing,True,"[('women', u'Individual ep\xc3\x83\xc2\xa9e ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:00,20:30
+July 31,Fencing,False,"[('men', 'Individual foil ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:30,15:30
+July 31,Fencing,True,"[('men', 'Individual foil ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:00,20:30
+August  1,Fencing,False,"[('men', u'Individual ep\xc3\x83\xc2\xa9e ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,15:40
+August  1,Fencing,True,"[('men', u'Individual ep\xc3\x83\xc2\xa9e '), ('women', 'Individual sabre ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",17:30,21:20
+August  2,Fencing,False,"[('women', 'Team foil ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,16:30
+August  2,Fencing,True,"[('women', 'Team foil ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:00,20:50
+August  3,Fencing,False,"[('men', 'Team sabre ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:30,15:30
+August  3,Fencing,True,"[('men', 'Team sabre ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:00,19:50
+August  4,Fencing,False,"[('women', u'Team ep\xc3\x83\xc2\xa9e ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,16:30
+August  4,Fencing,True,"[('women', u'Team ep\xc3\x83\xc2\xa9e ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:00,20:50
+August  5,Fencing,False,"[('men', 'Team foil ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,16:30
+August  5,Fencing,True,"[('men', 'Team foil ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:00,20:50
+July 25,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Millennium Stadium, Cardiff","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",16:00,20:45
+July 25,Football,False,"[('women', '- ')]",Ticket Limit: 30,"City of Coventry Stadium, Coventry","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,21:45
+July 25,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Hampden Park, Glasgow","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,21:45
+July 26,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Hampden Park, Glasgow","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",12:00,16:45
+July 26,Football,False,"[('men', '- ')]",Ticket Limit: 30,"St James' Park, Newcastle","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",14:30,19:15
+July 26,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Old Trafford, Manchester","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,21:45
+July 26,Football,False,"[('men', '- ')]",Ticket Limit: 30,"City of Coventry Stadium, Coventry","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",19:45,21:45
+July 26,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Millennium Stadium, Cardiff","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",19:45,21:45
+July 28,Football,False,"[('women', '- ')]",Ticket Limit: 30,"City of Coventry Stadium, Coventry","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",12:00,16:45
+July 28,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Millennium Stadium, Cardiff","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",14:30,19:15
+July 28,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Hampden Park, Glasgow","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,21:45
+July 29,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Old Trafford, Manchester","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",12:00,16:45
+July 29,Football,False,"[('men', '- ')]",Ticket Limit: 30,"City of Coventry Stadium, Coventry","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",14:30,19:15
+July 29,Football,False,"[('men', '- ')]",Ticket Limit: 30,"St James' Park, Newcastle","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,21:45
+July 29,Football,False,"[('men', '- ')]",Ticket Limit: 30,Wembley Stadium,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,21:45
+July 31,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Millennium Stadium, Cardiff","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",14:30,16:30
+July 31,Football,False,"[('women', '- ')]",Ticket Limit: 30,"St James' Park, Newcastle","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",14:30,19:15
+July 31,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Old Trafford, Manchester","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",17:15,19:15
+July 31,Football,False,"[('women', '- ')]",Ticket Limit: 30,"City of Coventry Stadium, Coventry","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",19:45,21:45
+July 31,Football,False,"[('women', '- ')]",Ticket Limit: 30,Wembley Stadium,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",19:45,21:45
+August  1,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Hampden Park, Glasgow","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",14:30,16:30
+August  1,Football,False,"[('men', '- ')]",Ticket Limit: 30,"St James' Park, Newcastle","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",14:30,16:30
+August  1,Football,False,"[('men', '- ')]",Ticket Limit: 30,"City of Coventry Stadium, Coventry","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,21:45
+August  1,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Millennium Stadium, Cardiff","[u'\xa340.00', u'\xa330.00', u'\xa320.00']",17:00,21:45
+August  1,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Old Trafford, Manchester","[u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,19:00
+August  1,Football,False,"[('men', '- ')]",Ticket Limit: 30,Wembley Stadium,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,19:00
+August  3,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Hampden Park, Glasgow","[u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",12:00,14:00
+August  3,Football,False,"[('women', '- ')]",Ticket Limit: 30,"St James' Park, Newcastle","[u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",14:30,16:30
+August  3,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Millennium Stadium, Cardiff","[u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",17:00,19:00
+August  3,Football,False,"[('women', '- ')]",Ticket Limit: 30,"City of Coventry Stadium, Coventry","[u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",19:30,21:30
+August  4,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Old Trafford, Manchester","[u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",12:00,14:00
+August  4,Football,False,"[('men', '- ')]",Ticket Limit: 30,Wembley Stadium,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",14:30,16:30
+August  4,Football,False,"[('men', '- ')]",Ticket Limit: 30,"St James' Park, Newcastle","[u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",17:00,19:00
+August  4,Football,False,"[('men', '- ')]",Ticket Limit: 30,"Millennium Stadium, Cardiff","[u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",19:30,21:30
+August  6,Football,False,"[('women', '- ')]",Ticket Limit: 30,Wembley Stadium,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",17:00,19:00
+August  6,Football,False,"[('women', '- ')]",Ticket Limit: 30,"Old Trafford, Manchester","[u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None]",19:45,21:45
+August  7,Football,False,"[('men', '- ')]",Ticket Limit: 20,Wembley Stadium,"[u'\xa3125.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",17:00,19:00
+August  7,Football,False,"[('men', '- ')]",Ticket Limit: 20,"Old Trafford, Manchester","[u'\xa3125.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",19:45,21:45
+August  9,Football,True,"[('women', '- ')]",Ticket Limit: 20,"City of Coventry Stadium, Coventry","[u'\xa360.00', u'\xa345.00', u'\xa330.00']",13:00,15:00
+August  9,Football,True,"[('women', '- ')]",Ticket Limit: 6,Wembley Stadium,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",19:45,22:15
+August 10,Football,True,"[('men', '- ')]",Ticket Limit: 20,"Millennium Stadium, Cardiff","[u'\xa375.00', u'\xa345.00', u'\xa330.00']",19:45,21:45
+August 11,Football,True,"[('men', '- ')]",Ticket Limit: 4,Wembley Stadium,"[u'\xa3185.00', u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa340.00']",15:00,17:30
+July 28,Gymnastics - Artistic,False,"[('men', '- ')]",Ticket Limit: 20,North Greenwich Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",11:00,13:10
+July 28,Gymnastics - Artistic,False,"[('men', ' ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",15:30,17:40
+July 28,Gymnastics - Artistic,False,"[('men', ' ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",20:00,22:10
+July 29,Gymnastics - Artistic,False,"[('women', ' ')]",Ticket Limit: 20,North Greenwich Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",09:30,12:45
+July 29,Gymnastics - Artistic,False,"[('women', ' ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",14:45,18:00
+July 29,Gymnastics - Artistic,False,"[('women', ' ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",20:00,21:30
+July 30,Gymnastics - Artistic,True,"[('men', 'Team ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",16:30,19:30
+July 31,Gymnastics - Artistic,True,"[('women', 'Team ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",16:30,18:40
+August  1,Gymnastics - Artistic,True,"[('men', 'Individual all around ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",16:30,19:35
+August  2,Gymnastics - Artistic,True,"[('women', 'Individual all around ')]",Ticket Limit: 6,North Greenwich Arena,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",16:30,18:30
+August  5,Gymnastics - Artistic,True,"[('men', 'Floor exercise '), ('men', 'Pommel horse '), ('women', 'Vault ')]",Ticket Limit: 4,North Greenwich Arena,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",14:00,16:15
+August  6,Gymnastics - Artistic,True,"[('men', 'Rings '), ('men', 'Vault '), ('women', 'Uneven bars ')]",Ticket Limit: 4,North Greenwich Arena,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",14:00,16:20
+August  7,Gymnastics - Artistic,True,"[('men', 'Horizontal bars '), ('men', 'Parallel bars '), ('women', 'Balance beam '), ('women', 'Floor exercise ')]",Ticket Limit: 4,North Greenwich Arena,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",14:00,17:05
+August  9,Gymnastics - Rhythmic,False,"[('women', 'Individual all around '), ('women', 'Group all around ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",12:00,16:10
+August 10,Gymnastics - Rhythmic,False,"[('women', 'Individual all around '), ('women', 'Group all around ')]",Ticket Limit: 20,Wembley Arena,"[u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",12:00,16:10
+August 11,Gymnastics - Rhythmic,True,"[('women', 'Individual all around ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa3175.00', u'\xa3125.00', u'\xa365.00', u'\xa345.00']",13:30,16:05
+August 12,Gymnastics - Rhythmic,True,"[('women', 'Group all around ')]",Ticket Limit: 6,Wembley Arena,"[u'\xa3175.00', u'\xa3125.00', u'\xa365.00', u'\xa345.00']",13:30,15:10
+July 28,Handball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+July 28,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+July 28,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+July 29,Handball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+July 29,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+July 29,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+July 30,Handball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+July 30,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+July 30,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+July 31,Handball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+July 31,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+July 31,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+August  1,Handball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+August  1,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+August  1,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+August  2,Handball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+August  2,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+August  2,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+August  3,Handball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+August  3,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+August  3,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+August  4,Handball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+August  4,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+August  4,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+August  5,Handball,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+August  5,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",14:30,17:45
+August  5,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+August  6,Handball,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,12:45
+August  6,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00', u'\xa30.00']",14:30,17:45
+August  6,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa350.00', u'\xa340.00', u'\xa330.00', u'\xa320.00']",19:30,22:45
+August  7,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",10:00,12:00
+August  7,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",13:30,15:30
+August  7,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",17:00,19:00
+August  7,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Handball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",20:30,22:30
+August  8,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",11:00,13:00
+August  8,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",14:30,16:30
+August  8,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",18:00,20:00
+August  8,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",21:30,23:30
+August  9,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",17:00,19:00
+August  9,Handball,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",20:30,22:30
+August 10,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",17:00,19:00
+August 10,Handball,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa375.00', u'\xa350.00', u'\xa335.00', u'\xa320.00']",20:30,22:30
+August 11,Handball,True,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa335.00']",17:00,19:00
+August 11,Handball,True,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",20:30,23:00
+August 12,Handball,True,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa335.00']",11:00,13:00
+August 12,Handball,True,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Basketball Arena,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:00,17:30
+July 29,Hockey,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+July 29,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+July 29,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+July 30,Hockey,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+July 30,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+July 30,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+July 31,Hockey,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+July 31,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+July 31,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+August  1,Hockey,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+August  1,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+August  1,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+August  2,Hockey,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+August  2,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+August  2,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+August  3,Hockey,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:45
+August  3,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+August  3,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+August  4,Hockey,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+August  4,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+August  4,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+August  5,Hockey,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+August  5,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+August  5,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+August  6,Hockey,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+August  6,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+August  6,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+August  7,Hockey,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,12:15
+August  7,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",13:45,17:30
+August  7,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', u'\xa320.00']",19:00,22:45
+August  8,Hockey,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,13:30
+August  8,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",15:30,17:30
+August  8,Hockey,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",20:00,22:00
+August  9,Hockey,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,13:30
+August  9,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",15:30,17:30
+August  9,Hockey,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",20:00,22:00
+August 10,Hockey,False,"[('women', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,13:30
+August 10,Hockey,True,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa3115.00', u'\xa375.00', u'\xa345.00', u'\xa335.00']",15:30,17:30
+August 10,Hockey,True,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",20:00,22:30
+August 11,Hockey,False,"[('men', '- ')]",Ticket Limit: 20,Olympic Park - Hockey Centre,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,13:30
+August 11,Hockey,True,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa3115.00', u'\xa375.00', u'\xa345.00', u'\xa335.00']",15:30,17:30
+August 11,Hockey,True,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Hockey Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",20:00,22:30
+July 28,Judo,False,"[('men', '-60kg '), ('women', '-48kg ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",09:30,12:30
+July 28,Judo,True,"[('men', '-60kg '), ('women', '-48kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:00,16:30
+July 29,Judo,False,"[('men', '-66kg '), ('women', '-52kg ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",09:30,12:30
+July 29,Judo,True,"[('men', '-60kg '), ('women', '-60kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:00,16:30
+July 30,Judo,False,"[('men', '-73kg '), ('women', '-57kg ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",09:30,12:30
+July 30,Judo,True,"[('men', '-73kg '), ('women', '-57kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:00,16:30
+July 31,Judo,False,"[('men', '-81kg '), ('women', '-63kg ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",09:30,12:30
+July 31,Judo,True,"[('men', '-81kg '), ('women', '-63kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:00,16:30
+August  1,Judo,False,"[('men', '-90kg '), ('women', '-70kg ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",09:30,12:30
+August  1,Judo,True,"[('men', '- ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:00,16:30
+August  2,Judo,False,"[('men', '-100kg '), ('women', '-78kg ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",09:30,12:30
+August  2,Judo,True,"[('men', '-100kg '), ('women', '-78kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:00,16:30
+August  3,Judo,False,"[('men', '+100kg '), ('women', '+78kg ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",09:30,12:30
+August  3,Judo,True,"[('men', '+100kg '), ('women', '+78kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:00,16:30
+August 11,Modern Pentathlon,True,"[('men', '- ')]",Ticket Limit: 6,Various locations,"[u'\xa375.00', None]",09:00,19:10
+August 11,Modern Pentathlon,True,"[('men', '- ')]",Ticket Limit: 10,Various locations,"[u'\xa335.00', None, None, u'\xa320.00', None, None]",15:10,19:10
+August 12,Modern Pentathlon,True,"[('women', '- ')]",Ticket Limit: 6,Various locations,"[u'\xa375.00', None]",08:00,18:00
+August 12,Modern Pentathlon,True,"[('women', '- ')]",Ticket Limit: 10,Various locations,"[u'\xa335.00', None, None, u'\xa320.00', None, None]",14:00,18:00
+July 28,Rowing,False,"[('men', 'Pairs '), ('men', 'Lightweight fours '), ('men', 'Eights '), ('men', 'Single sculls '), ('men', 'Double sculls '), ('men', 'Quadruple sculls '), ('women', 'Pairs '), ('women', 'Single sculls '), ('women', 'Quadruple sculls ')]",Ticket Limit: 20,"Eton Dorney, Buckinghamshire","[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None, None]",09:30,14:10
+July 29,Rowing,False,"[('men', 'Lightweight fours '), ('men', 'Single sculls '), ('men', 'Double sculls '), ('men', 'Lightweight double sculls '), ('women', 'Eights '), ('women', 'Single sculls '), ('women', 'Lightweight double sculls ')]",Ticket Limit: 20,"Eton Dorney, Buckinghamshire","[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None, None]",09:30,11:50
+July 30,Rowing,False,"[('men', 'Pairs '), ('men', 'Fours '), ('men', 'Eights '), ('men', 'Quadruple sculls '), ('women', 'Pairs '), ('women', 'Double sculls '), ('women', 'Quadruple sculls ')]",Ticket Limit: 20,"Eton Dorney, Buckinghamshire","[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None, None]",09:30,11:10
+July 31,Rowing,False,"[('men', 'Fours '), ('men', 'Lightweight fours '), ('men', 'Single sculls '), ('men', 'Double sculls '), ('men', 'Lightweight double sculls '), ('women', 'Eights '), ('women', 'Single sculls '), ('women', 'Double sculls '), ('women', 'Lightweight double sculls ')]",Ticket Limit: 20,"Eton Dorney, Buckinghamshire","[u'\xa395.00', u'\xa365.00', u'\xa350.00', u'\xa340.00', None, u'\xa320.00', None, None]",09:30,12:40
+August  1,Rowing,True,"[('men', 'Pairs '), ('men', 'Eights '), ('men', 'Single sculls '), ('men', 'Lightweight double sculls '), ('men', 'Quadruple sculls '), ('women', 'Pairs '), ('women', 'Quadruple sculls ')]",Ticket Limit: 6,"Eton Dorney, Buckinghamshire","[u'\xa3150.00', u'\xa395.00', u'\xa370.00', u'\xa350.00', u'\xa330.00', None]",09:30,12:50
+August  2,Rowing,True,"[('men', 'Fours '), ('men', 'Lightweight fours '), ('men', 'Double sculls '), ('men', 'Lightweight double sculls '), ('women', 'Eights '), ('women', 'Single sculls '), ('women', 'Lightweight double sculls ')]",Ticket Limit: 6,"Eton Dorney, Buckinghamshire","[u'\xa3150.00', u'\xa395.00', u'\xa370.00', u'\xa350.00', u'\xa330.00', None]",09:30,12:50
+August  3,Rowing,True,"[('men', 'Pairs '), ('men', 'Single sculls '), ('men', 'Quadruple sculls '), ('women', 'Double sculls ')]",Ticket Limit: 4,"Eton Dorney, Buckinghamshire","[u'\xa3150.00', u'\xa395.00', u'\xa370.00', u'\xa350.00', u'\xa330.00', None]",09:30,12:50
+August  4,Rowing,True,"[('men', 'Fours '), ('men', 'Lightweight double sculls '), ('women', 'Single sculls '), ('women', 'Lightweight double sculls ')]",Ticket Limit: 4,"Eton Dorney, Buckinghamshire","[u'\xa3150.00', u'\xa395.00', u'\xa370.00', u'\xa350.00', u'\xa330.00', None]",09:30,12:50
+July 29,Sailing,False,"[('men', 'Finn '), ('men', 'Star '), ('women', 'Elliott 6m ')]",Ticket Limit: 20,"Weymouth and Portland, Dorset","[u'\xa335.00', None, None, u'\xa320.00', None, None]",12:00,18:00
+July 30,Sailing,False,"[('men', '49er '), ('men', 'Finn '), ('men', 'Laser '), ('men', 'Rs x '), ('men', 'Star '), ('women', 'Elliott 6m '), ('women', 'Laser radial '), ('women', 'Rs x ')]",Ticket Limit: 20,"Weymouth and Portland, Dorset","[u'\xa335.00', None, None]",12:00,18:00
+July 31,Sailing,False,"[('men', '49er '), ('men', 'Finn '), ('men', 'Laser '), ('men', 'Rs x '), ('men', 'Star '), ('women', 'Elliott 6m '), ('women', 'Laser radial '), ('women', 'Rs x ')]",Ticket Limit: 20,"Weymouth and Portland, Dorset","[u'\xa335.00', None, None]",12:00,18:00
+August  1,Sailing,False,"[('men', '49er '), ('men', 'Laser '), ('men', 'Rs x '), ('women', 'Elliott 6m '), ('women', 'Laser radial '), ('women', 'Rs x ')]",Ticket Limit: 20,"Weymouth and Portland, Dorset","[u'\xa335.00', None, None]",12:00,18:00
+August  2,Sailing,False,"[('men', '49er '), ('men', '470 '), ('men', 'Finn '), ('men', 'Star '), ('women', '470 '), ('women', 'Elliott 6m ')]",Ticket Limit: 20,"Weymouth and Portland, Dorset","[u'\xa335.00', None, None]",12:00,18:00
+August  3,Sailing,False,"[('men', '49er '), ('men', '470 '), ('men', 'Finn '), ('men', 'Laser '), ('men', 'Star '), ('women', '470 '), ('women', 'Laser radial ')]",Ticket Limit: 20,"Weymouth and Portland, Dorset","[u'\xa335.00', None, None]",12:00,18:00
+August  4,Sailing,False,"[('men', '470 '), ('men', 'Laser '), ('men', 'Rs x '), ('women', '470 '), ('women', 'Elliott 6m '), ('women', 'Laser radial '), ('women', 'Rs x ')]",Ticket Limit: 20,"Weymouth and Portland, Dorset","[u'\xa335.00', None, None]",12:00,18:00
+August  5,Sailing,True,"[('men', '49er '), ('men', 'Finn '), ('men', 'Rs x '), ('men', 'Star '), ('women', 'Rs x ')]",Ticket Limit: 6,"Weymouth and Portland, Dorset","[u'\xa355.00', None]",12:00,18:00
+August  6,Sailing,True,"[('men', '49er '), ('men', '470 '), ('men', 'Laser '), ('women', '470 '), ('women', 'Laser radial ')]",Ticket Limit: 6,"Weymouth and Portland, Dorset","[u'\xa355.00', None]",12:00,18:00
+August  7,Sailing,True,"[('men', '470 '), ('men', 'Rs x '), ('women', '470 '), ('women', 'Elliott 6m '), ('women', 'Rs x ')]",Ticket Limit: 6,"Weymouth and Portland, Dorset","[u'\xa355.00', None]",12:00,18:00
+August  8,Sailing,True,"[('men', '49er '), ('women', 'Elliott 6m ')]",Ticket Limit: 6,"Weymouth and Portland, Dorset","[u'\xa355.00', None]",12:00,18:00
+August  9,Sailing,True,"[('men', '470 '), ('women', 'Elliott 6m ')]",Ticket Limit: 6,"Weymouth and Portland, Dorset","[u'\xa355.00', None]",12:00,18:00
+August 10,Sailing,True,"[('women', '470 '), ('women', 'Elliott 6m ')]",Ticket Limit: 6,"Weymouth and Portland, Dorset","[u'\xa355.00', None]",12:00,18:00
+August 11,Sailing,True,"[('women', 'Elliott 6m ')]",Ticket Limit: 6,"Weymouth and Portland, Dorset","[u'\xa355.00', None]",12:00,18:00
+July 28,Shooting,True,"[('men', '10m air pistol '), ('women', '10m air rifle ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa340.00', None]",08:15,16:00
+July 29,Shooting,True,"[('women', '10m air pistol '), ('women', 'Skeet ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa340.00', None]",09:00,17:30
+July 29,Shooting,True,"[('women', '10m air pistol '), ('women', 'Skeet ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa330.00', None]",09:00,17:30
+July 30,Shooting,True,"[('men', '10m air rifle '), ('men', 'Skeet ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa340.00', None]",09:00,14:30
+July 30,Shooting,False,"[('men', '10m air rifle '), ('men', 'Skeet ')]",Ticket Limit: 20,The Royal Artillery Barracks,"[u'\xa320.00', None, None]",09:00,14:30
+July 31,Shooting,True,"[('men', 'Skeet ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa330.00', None]",09:00,15:15
+August  1,Shooting,True,"[('women', '25m pistol ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa340.00', None]",09:00,16:15
+August  2,Shooting,True,"[('men', '25m rapid fire pistol '), ('men', 'Double trap ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa330.00', None]",09:00,16:15
+August  3,Shooting,True,"[('men', '25m rapid fire pistol '), ('men', '50m rifle prone ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa340.00', None]",09:00,16:00
+August  4,Shooting,True,"[('women', '50m rifle three positions '), ('women', 'Trap ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa340.00', None]",09:00,17:30
+August  4,Shooting,True,"[('women', '50m rifle three positions '), ('women', 'Trap ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa330.00', None]",09:00,17:30
+August  5,Shooting,True,"[('men', '50m pistol '), ('men', 'Trap ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa340.00', None]",09:00,16:00
+August  5,Shooting,False,"[('men', '50m pistol '), ('men', 'Trap ')]",Ticket Limit: 20,The Royal Artillery Barracks,"[u'\xa320.00', None, None]",09:00,16:00
+August  6,Shooting,True,"[('men', '50m rifle three positions '), ('men', 'Trap ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa340.00', None]",09:00,17:30
+August  6,Shooting,True,"[('men', '50m rifle three positions '), ('men', 'Trap ')]",Ticket Limit: 6,The Royal Artillery Barracks,"[u'\xa330.00', None]",09:00,17:30
+July 28,Swimming,False,"[('men', '100m breaststroke '), ('men', '400m freestyle '), ('men', '400m individual medley '), ('women', '100m butterfly '), ('women', '400m individual medley '), ('women', '4x100m freestyle relay ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', None, u'\xa320.00', None]",10:00,13:00
+July 28,Swimming,True,"[('men', '100m breaststroke '), ('men', '400m freestyle '), ('men', '400m individual medley '), ('women', '100m butterfly '), ('women', '400m individual medley '), ('women', '4x100m freestyle relay ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:30,21:35
+July 29,Swimming,True,"[('men', '100m backstroke '), ('men', '200m freestyle '), ('men', '4x100m freestyle relay '), ('women', '100m backstroke '), ('women', '100m breaststroke '), ('women', '400m freestyle ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",10:00,12:50
+July 29,Swimming,True,"[('men', '100m backstroke '), ('men', '200m freestyle '), ('men', '100m breaststroke '), ('men', '4x100m freestyle relay '), ('women', '100m backstroke '), ('women', '100m breaststroke '), ('women', '100m butterfly '), ('women', '400m freestyle ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:30,21:35
+July 30,Swimming,False,"[('men', '200m butterfly '), ('women', '200m freestyle '), ('women', '200m individual medley ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",10:00,11:40
+July 30,Swimming,True,"[('men', '200m butterfly '), ('men', '100m backstroke '), ('men', '200m freestyle '), ('women', '200m freestyle '), ('women', '200m individual medley '), ('women', '100m backstroke '), ('women', '100m breaststroke ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:30,21:15
+July 31,Swimming,False,"[('men', '100m freestyle '), ('men', '200m breaststroke '), ('men', '4x200m freestyle relay '), ('women', '200m butterfly ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",10:00,12:15
+July 31,Swimming,True,"[('men', '100m freestyle '), ('men', '200m breaststroke '), ('men', '200m butterfly '), ('men', '4x200m freestyle relay '), ('women', '200m butterfly '), ('women', '200m freestyle '), ('women', '200m individual medley ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:30,21:20
+August  1,Swimming,False,"[('men', '200m backstroke '), ('men', '200m individual medley '), ('women', '100m freestyle '), ('women', '200m breaststroke '), ('women', '4x200m freestyle relay ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",10:00,13:05
+August  1,Swimming,True,"[('men', '200m backstroke '), ('men', '200m individual medley '), ('men', '100m freestyle '), ('men', '200m breaststroke '), ('women', '100m freestyle '), ('women', '200m breaststroke '), ('women', '200m butterfly '), ('women', '4x200m freestyle relay ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:30,21:35
+August  2,Swimming,False,"[('men', '50m freestyle '), ('men', '100m butterfly '), ('women', '200m backstroke '), ('women', '800m freestyle ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",10:00,12:10
+August  2,Swimming,True,"[('men', '50m freestyle '), ('men', '100m butterfly '), ('men', '200m backstroke '), ('men', '200m individual medley '), ('women', '200m backstroke '), ('women', '100m freestyle '), ('women', '200m breaststroke ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:30,21:05
+August  3,Swimming,False,"[('men', '1500m freestyle '), ('men', '4x100m medley relay '), ('women', '50m freestyle '), ('women', '4x100m medley relay ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3150.00', u'\xa395.00', u'\xa365.00', u'\xa340.00', u'\xa320.00']",10:00,12:50
+August  3,Swimming,True,"[('men', '50m freestyle '), ('men', '100m butterfly '), ('women', '50m freestyle '), ('women', '200m backstroke '), ('women', '800m freestyle ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:30,20:50
+August  4,Swimming,True,"[('men', '1500m freestyle '), ('men', '4x100m medley relay '), ('women', '50m freestyle '), ('women', '4x100m medley relay ')]",Ticket Limit: 4,Olympic Park - Aquatics Centre,"[u'\xa3450.00', u'\xa3295.00', u'\xa3185.00', u'\xa395.00', u'\xa350.00']",19:30,21:00
+August  9,Swimming,True,"[('women', '10k ')]",Ticket Limit: 10,Hyde Park,"[u'\xa360.00', None, u'\xa340.00', None, None, u'\xa320.00', None, None]",12:00,15:00
+August 10,Swimming,True,"[('men', '10k ')]",Ticket Limit: 10,Hyde Park,"[u'\xa360.00', None, u'\xa340.00', None, None, u'\xa320.00', None, None]",12:00,15:00
+August  5,Synchronized Swimming,False,"[('women', 'Duets technical ')]",Ticket Limit: 20,Olympic Park - Aquatics Centre,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",15:00,16:40
+August  6,Synchronized Swimming,False,"[('women', 'Duets free ')]",Ticket Limit: 20,Olympic Park - Aquatics Centre,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",15:00,17:10
+August  7,Synchronized Swimming,True,"[('women', 'Duets technical ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3175.00', u'\xa3120.00', u'\xa380.00', u'\xa350.00', u'\xa330.00']",15:00,16:30
+August  9,Synchronized Swimming,False,"[('women', 'Teams technical ')]",Ticket Limit: 20,Olympic Park - Aquatics Centre,"[u'\xa395.00', u'\xa375.00', u'\xa350.00', u'\xa330.00', None, u'\xa320.00', None]",15:00,15:45
+August 10,Synchronized Swimming,True,"[('women', 'Teams free ')]",Ticket Limit: 6,Olympic Park - Aquatics Centre,"[u'\xa3175.00', u'\xa3120.00', u'\xa380.00', u'\xa350.00', u'\xa330.00']",15:00,16:30
+July 28,Table Tennis,False,"[('men', 'Singles '), ('women', 'Singles ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",09:00,12:45
+July 28,Table Tennis,False,"[('men', 'Singles '), ('women', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",14:30,17:30
+July 28,Table Tennis,False,"[('men', 'Singles '), ('women', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",19:00,22:00
+July 29,Table Tennis,False,"[('men', 'Singles '), ('women', 'Singles ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",00:00,12:00
+July 29,Table Tennis,False,"[('men', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",13:30,16:31
+July 29,Table Tennis,False,"[('women', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",18:00,22:00
+July 30,Table Tennis,False,"[('men', 'Singles ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00']",10:00,14:00
+July 30,Table Tennis,False,"[('women', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",15:30,17:30
+July 30,Table Tennis,False,"[('men', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",19:00,21:00
+July 31,Table Tennis,False,"[('women', 'Singles ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",10:00,14:00
+July 31,Table Tennis,False,"[('women', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",16:00,18:00
+July 31,Table Tennis,False,"[('men', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",20:00,22:00
+August  1,Table Tennis,False,"[('men', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",10:00,12:00
+August  1,Table Tennis,True,"[('women', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:30,16:30
+August  2,Table Tennis,False,"[('men', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",10:00,12:00
+August  2,Table Tennis,True,"[('men', 'Singles ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",14:30,16:30
+August  3,Table Tennis,False,"[('women', 'Team ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",10:00,13:00
+August  3,Table Tennis,False,"[('women', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",14:30,17:30
+August  3,Table Tennis,False,"[('men', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",19:00,22:00
+August  4,Table Tennis,False,"[('men', 'Team ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",10:00,13:00
+August  4,Table Tennis,True,"[('women', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",14:30,17:30
+August  4,Table Tennis,False,"[('women', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",19:00,22:00
+August  5,Table Tennis,False,"[('men', 'Team ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",10:00,13:00
+August  5,Table Tennis,False,"[('men', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",14:30,17:30
+August  5,Table Tennis,False,"[('women', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",19:00,22:00
+August  6,Table Tennis,False,"[('women', 'Team ')]",Ticket Limit: 20,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', None, u'\xa320.00', None]",10:00,13:00
+August  6,Table Tennis,False,"[('men', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",14:30,17:30
+August  6,Table Tennis,False,"[('men', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",19:00,22:00
+August  7,Table Tennis,True,"[('women', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa3110.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",11:00,14:00
+August  7,Table Tennis,True,"[('women', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:30,18:30
+August  8,Table Tennis,True,"[('men', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa3110.00', u'\xa375.00', u'\xa345.00', u'\xa330.00']",11:00,14:00
+August  8,Table Tennis,True,"[('men', 'Team ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:30,18:30
+August  8,Taekwondo,False,"[('men', '-58kg '), ('women', '-49kg ')]",Ticket Limit: 20,ExCel,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,13:00
+August  8,Taekwondo,False,"[('men', '-58kg '), ('women', '-49kg ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",15:00,18:00
+August  8,Taekwondo,True,"[('men', '-58kg '), ('women', '-49kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",20:00,23:15
+August  9,Taekwondo,False,"[('men', '-68kg '), ('women', '-57kg ')]",Ticket Limit: 20,ExCel,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,13:00
+August  9,Taekwondo,False,"[('men', '-68kg '), ('women', '-57kg ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",15:00,18:00
+August  9,Taekwondo,True,"[('men', '-68kg '), ('women', '-57kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",20:00,23:15
+August 10,Taekwondo,False,"[('men', '-80kg '), ('women', '-67kg ')]",Ticket Limit: 20,ExCel,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,13:00
+August 10,Taekwondo,False,"[('men', '-80kg '), ('women', '-67kg ')]",Ticket Limit: 6,ExCel,"[u'\xa385.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",15:00,18:00
+August 10,Taekwondo,True,"[('men', '-80kg '), ('women', '-67kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",20:00,23:15
+August 11,Taekwondo,False,"[('men', '+80kg '), ('women', '+67kg ')]",Ticket Limit: 20,ExCel,"[u'\xa360.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:00,13:00
+August 11,Taekwondo,False,"[('men', '+80kg '), ('women', '+67kg ')]",Ticket Limit: 6,ExCel,"[u'\xa374.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",15:00,18:00
+August 11,Taekwondo,True,"[('men', '+80kg '), ('women', '+67kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",20:00,23:25
+July 27,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Doubles ')]",Ticket Limit: 6,Wimbledon,"[u'\xa385.00', u'\xa365.00', u'\xa355.00', u'\xa340.00', None, u'\xa330.00', None]",12:00,20:00
+July 28,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 20,Wimbledon,"[u'\xa320.00', None, None]",11:30,20:00
+July 28,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 10,Wimbledon,"[u'\xa355.00', u'\xa340.00', None, u'\xa330.00', None]",12:00,20:00
+July 29,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 20,Wimbledon,"[u'\xa320.00', None, None]",11:30,20:00
+July 29,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 6,Wimbledon,"[u'\xa385.00', u'\xa365.00', u'\xa355.00', u'\xa340.00', None, u'\xa330.00', None]",12:00,20:00
+July 29,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 10,Wimbledon,"[u'\xa355.00', u'\xa340.00', None, u'\xa330.00', None]",12:00,20:00
+July 30,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 20,Wimbledon,"[u'\xa320.00', None, None]",11:30,20:00
+July 30,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 6,Wembley Stadium,"[u'\xa385.00', u'\xa365.00', u'\xa355.00', u'\xa340.00', u'\xa330.00']",12:00,20:00
+July 30,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 10,Wimbledon,"[u'\xa355.00', u'\xa340.00', None, u'\xa330.00', None]",12:00,20:00
+July 31,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 20,Wimbledon,"[u'\xa320.00', None, None]",11:30,20:00
+July 31,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 6,Wimbledon,"[u'\xa385.00', u'\xa365.00', u'\xa355.00', u'\xa340.00', u'\xa330.00']",12:00,20:00
+July 31,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles ')]",Ticket Limit: 10,Wimbledon,"[u'\xa355.00', u'\xa340.00', None, u'\xa330.00', None]",12:00,20:00
+August  1,Tennis,False,"[('men-and-women', 'Singles '), ('mixed', 'Singles ')]",Ticket Limit: 20,Wimbledon,"[u'\xa320.00', None, None]",11:30,20:00
+August  1,Tennis,False,"[('men', 'Singles '), ('mixed', 'Singles ')]",Ticket Limit: 6,Wimbledon,"[u'\xa385.00', u'\xa365.00', u'\xa355.00', u'\xa340.00', u'\xa330.00']",12:00,20:00
+August  1,Tennis,False,"[('men-and-women', 'Singles '), ('mixed', 'Singles ')]",Ticket Limit: 10,Wimbledon,"[u'\xa355.00', u'\xa340.00', None, u'\xa330.00', None]",12:00,20:00
+August  2,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles '), ('mixed', 'Singles ')]",Ticket Limit: 20,Wimbledon,"[u'\xa320.00', None, None]",11:30,20:00
+August  2,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles '), ('mixed', 'Singles ')]",Ticket Limit: 6,Wimbledon,[],12:00,20:00
+August  2,Tennis,False,"[('men-and-women', 'Singles '), ('men-and-women', 'Singles '), ('mixed', 'Singles ')]",Ticket Limit: 10,Wimbledon,"[u'\xa375.00', u'\xa345.00', None, u'\xa335.00', None]",12:00,20:00
+August  3,Tennis,False,"[('men-and-women', 'Singles '), ('mixed', 'Singles ')]",Ticket Limit: 6,Wimbledon,"[u'\xa3115.00', u'\xa3110.00', u'\xa395.00', u'\xa365.00']",12:00,20:00
+August  3,Tennis,False,"[('men-and-women', 'Singles '), ('mixed', 'Singles ')]",Ticket Limit: 10,Wimbledon,"[u'\xa375.00', u'\xa345.00', None, u'\xa335.00', None]",12:00,20:00
+August  4,Tennis,True,"[('men', 'Doubles ')]",Ticket Limit: 6,Wimbledon,"[u'\xa395.00', u'\xa355.00', None, u'\xa335.00', None]",12:00,20:30
+August  4,Tennis,True,"[('men', 'Doubles '), ('women', 'Singles ')]",Ticket Limit: 4,Wimbledon,"[u'\xa3185.00', u'\xa3125.00', u'\xa3110.00', u'\xa395.00', u'\xa365.00']",14:00,20:30
+August  5,Tennis,True,"[('men', 'Singles '), ('women', 'Doubles '), ('mixed', 'Mixed doubles ')]",Ticket Limit: 4,Wimbledon,"[u'\xa3225.00', u'\xa3150.00', u'\xa3110.00', u'\xa395.00', u'\xa365.00']",12:00,20:30
+August  5,Tennis,True,"[('men', 'Singles '), ('women', 'Singles ')]",Ticket Limit: 6,Wimbledon,"[u'\xa395.00', u'\xa355.00', None, u'\xa335.00', None]",12:00,20:30
+August  4,Triathlon,True,"[('women', ' ')]",Ticket Limit: 10,Hyde Park,"[u'\xa350.00', None, u'\xa340.00', None, None, u'\xa320.00', None, None]",09:00,11:40
+August  7,Triathlon,True,"[('men', ' ')]",Ticket Limit: 10,Hyde Park,"[u'\xa360.00', None, u'\xa340.00', None, None, u'\xa320.00', None, None]",11:30,14:00
+July 28,Volleyball,False,"[('women', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+July 28,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+July 28,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa30.00']",20:00,23:30
+July 29,Volleyball,False,"[('men', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+July 29,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+July 29,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa350.00']",20:00,23:30
+July 30,Volleyball,False,"[('women', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+July 30,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+July 30,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",20:00,23:30
+July 31,Volleyball,False,"[('men', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",09:30,13:00
+July 31,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+July 31,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",22:00,23:30
+August  1,Volleyball,False,"[('women', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+August  1,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+August  1,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",20:00,23:30
+August  2,Volleyball,True,"[('men', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+August  2,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+August  2,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",20:00,23:30
+August  3,Volleyball,False,"[('women', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+August  3,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+August  3,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",20:00,23:30
+August  4,Volleyball,False,"[('men', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+August  4,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+August  4,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",20:00,23:30
+August  5,Volleyball,False,"[('women', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+August  5,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+August  5,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",20:00,23:30
+August  6,Volleyball,False,"[('men', '- ')]",Ticket Limit: 20,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",09:30,13:00
+August  6,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:45,18:15
+August  6,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",20:00,23:30
+August  7,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa395.00', u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",13:00,16:30
+August  7,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa395.00', u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",19:00,20:30
+August  8,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa395.00', u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",14:00,17:30
+August  8,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa395.00', u'\xa365.00', u'\xa355.00', u'\xa345.00', u'\xa330.00']",19:30,23:00
+August  9,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa3115.00', u'\xa385.00', u'\xa375.00', u'\xa365.00', u'\xa340.00']",15:00,16:30
+August  9,Volleyball,False,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa3115.00', u'\xa385.00', u'\xa375.00', u'\xa365.00', u'\xa340.00']",19:30,16:30
+August 10,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa3115.00', u'\xa385.00', u'\xa375.00', u'\xa365.00', u'\xa340.00']",15:00,16:30
+August 10,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa3115.00', u'\xa385.00', u'\xa375.00', u'\xa365.00', u'\xa340.00']",19:30,21:00
+August 11,Volleyball,True,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa3115.00', u'\xa385.00', u'\xa375.00', u'\xa365.00', u'\xa340.00']",11:30,13:00
+August 11,Volleyball,True,"[('women', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa3185.00', u'\xa3150.00', u'\xa3125.00', u'\xa395.00', u'\xa365.00']",18:30,20:40
+August 12,Volleyball,False,"[('men', '- ')]",Ticket Limit: 6,Earls Court,"[u'\xa3115.00', u'\xa385.00', u'\xa375.00', u'\xa365.00', u'\xa340.00']",09:30,11:00
+August 12,Volleyball,False,"[('men', '- ')]",Ticket Limit: 4,Earls Court,"[u'\xa3185.00', u'\xa3150.00', u'\xa3125.00', u'\xa395.00', u'\xa365.00']",13:00,10:00
+July 29,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:00,12:40
+July 29,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:10,16:50
+July 29,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:20,21:00
+July 30,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:10,21:00
+July 30,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:20,21:00
+July 31,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",10:00,12:40
+July 31,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:10,16:50
+July 31,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:20,21:00
+August  1,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",14:10,16:50
+August  1,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:12,21:00
+August  2,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:00,12:40
+August  2,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:10,16:50
+August  2,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:20,21:00
+August  3,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",14:10,16:50
+August  3,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:20,21:00
+August  4,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:00,12:40
+August  4,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:10,16:50
+August  4,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:20,21:00
+August  5,Water Polo,False,"[('women', '- ')]",Ticket Limit: 3,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",10:50,17:30
+August  5,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",19:00,21:40
+August  6,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:00,12:14
+August  6,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:10,16:50
+August  6,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:20,21:00
+August  7,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",14:10,16:50
+August  7,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:20,21:00
+August  8,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:30,17:10
+August  8,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",18:40,21:20
+August  9,Water Polo,False,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",14:30,17:10
+August  9,Water Polo,True,"[('women', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa3185.00', u'\xa3125.00', u'\xa395.00', u'\xa365.00']",18:40,21:50
+August 10,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",14:20,17:00
+August 10,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa395.00', u'\xa365.00', u'\xa345.00', u'\xa330.00']",18:30,21:10
+August 12,Water Polo,False,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",10:20,13:00
+August 12,Water Polo,True,"[('men', '- ')]",Ticket Limit: 6,Olympic Park - Water Polo Arena,"[u'\xa3185.00', u'\xa3125.00', u'\xa395.00', u'\xa365.00']",14:30,17:40
+July 28,Weightlifting,True,"[('women', '48kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:30,17:30
+July 29,Weightlifting,False,"[('men', '56kg '), ('women', '53kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:00,14:00
+July 29,Weightlifting,True,"[('women', '53kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:30,17:30
+July 29,Weightlifting,True,"[('men', '56kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa315.00']",19:00,21:00
+July 30,Weightlifting,False,"[('men', '62kg '), ('women', '58kg ')]",Ticket Limit: 6,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",10:00,14:00
+July 30,Weightlifting,True,"[('women', '58kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:30,17:30
+July 30,Weightlifting,True,"[('men', '62kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",19:00,21:00
+July 31,Weightlifting,False,"[('men', '69kg '), ('women', '63kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:00,14:00
+July 31,Weightlifting,True,"[('women', '63kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:30,17:30
+July 31,Weightlifting,True,"[('men', '69kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",19:00,21:00
+August  1,Weightlifting,False,"[('men', '77kg '), ('women', '69kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:00,14:00
+August  1,Weightlifting,True,"[('women', '69kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:30,17:30
+August  1,Weightlifting,True,"[('men', '77kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",19:00,21:00
+August  3,Weightlifting,False,"[('men', '85kg '), ('women', '75kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', None, u'\xa320.00', None]",10:00,14:00
+August  3,Weightlifting,True,"[('women', '75kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",15:30,17:30
+August  3,Weightlifting,True,"[('men', '85kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",19:00,21:00
+August  4,Weightlifting,False,"[('men', '94kg ')]",Ticket Limit: 6,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",15:30,17:30
+August  4,Weightlifting,True,"[('men', '94kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3125.00', u'\xa395.00', u'\xa365.00', u'\xa345.00']",19:00,21:00
+August  5,Weightlifting,True,"[('women', '+75kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3175.00', u'\xa3125.00', u'\xa365.00', u'\xa345.00']",15:30,17:30
+August  6,Weightlifting,False,"[('men', '105kg ')]",Ticket Limit: 6,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa330.00']",15:30,17:30
+August  6,Weightlifting,True,"[('men', '105kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3175.00', u'\xa3125.00', u'\xa365.00', u'\xa345.00']",19:00,21:00
+August  7,Weightlifting,False,"[('men', '+105kg ')]",Ticket Limit: 6,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa330.00', u'\xa320.00']",15:30,17:30
+August  7,Weightlifting,True,"[('men', '+105kg ')]",Ticket Limit: 6,ExCel,"[u'\xa3175.00', u'\xa3125.00', u'\xa365.00', u'\xa345.00']",19:00,21:00
+August  8,Wrestling - Freestyle,False,"[('women', '55kg '), ('women', '55kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",13:00,15:45
+August  8,Wrestling - Freestyle,True,"[('women', '55kg '), ('women', '55kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",17:45,20:15
+August  9,Wrestling - Freestyle,False,"[('women', '55kg '), ('women', '72 ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",13:00,15:45
+August  9,Wrestling - Freestyle,True,"[('women', '55kg '), ('women', '72 ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",17:45,20:15
+August 10,Wrestling - Freestyle,False,"[('men', '55kg '), ('men', '74kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",13:00,14:45
+August 10,Wrestling - Freestyle,True,"[('men', '55kg '), ('men', '74kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",17:45,20:15
+August 11,Wrestling - Freestyle,False,"[('men', '60kg '), ('men', '84kg '), ('men', '120kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",13:00,15:45
+August 11,Wrestling - Freestyle,True,"[('men', '60kg '), ('men', '84kg '), ('men', '120kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",17:45,20:15
+August 12,Wrestling - Freestyle,False,"[('men', '66kg '), ('men', '96kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",08:30,11:15
+August 12,Wrestling - Freestyle,True,"[('men', '66kg '), ('men', '96kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",12:45,15:15
+August  5,Wrestling - Greco-Roman,False,"[('men', '55kg '), ('men', '74kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",13:00,15:46
+August  5,Wrestling - Greco-Roman,True,"[('men', '55kg '), ('men', '74kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",17:45,20:15
+August  6,Wrestling - Greco-Roman,False,"[('men', '60kg '), ('men', '84kg '), ('men', '120kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",13:00,15:45
+August  6,Wrestling - Greco-Roman,True,"[('men', '60kg '), ('men', '84kg '), ('men', '120kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",14:45,20:15
+August  7,Wrestling - Greco-Roman,False,"[('men', '66kg '), ('men', '96kg ')]",Ticket Limit: 20,ExCel,"[u'\xa365.00', u'\xa345.00', u'\xa335.00', None, u'\xa320.00', None]",13:00,15:45
+August  7,Wrestling - Greco-Roman,True,"[('men', '66kg '), ('men', '96kg ')]",Ticket Limit: 6,ExCel,"[u'\xa395.00', u'\xa355.00', u'\xa335.00', u'\xa320.00']",17:45,20:15
+August  3,Gymnastics - Trampoline,True,"[('men', ' ')]",Ticket Limit: 10,North Greenwich Arena,"[u'\xa3185.00', u'\xa3115.00', u'\xa375.00', u'\xa340.00', None, u'\xa320.00', None]",14:00,16:15
+August  4,Gymnastics - Trampoline,True,"[('women', ' ')]",Ticket Limit: 10,North Greenwich Arena,"[u'\xa3185.00', u'\xa3115.00', u'\xa375.00', u'\xa340.00', None, u'\xa320.00', None]",14:00,16:15
+July 27,The Ceremonies,False,"[('ceremony', ' ')]",Ticket Limit: 4,Olympic Park - Olympic Stadium,"[u'\xa32,012.00', u'\xa31,600.00', u'\xa3995.00', u'\xa3150.00', u'\xa320.00']",19:30,22:30
+August 12,The Ceremonies,False,"[('ceremony', ' ')]",Ticket Limit: 4,Olympic Park - Olympic Stadium,"[u'\xa31,500.00', u'\xa3995.00', u'\xa3665.00', u'\xa3150.00', u'\xa320.00']",19:30,22:30
